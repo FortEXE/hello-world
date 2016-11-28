@@ -1,0 +1,17 @@
+// don't run this!
+#include <stdio.h>
+
+void infinite_recursion(){
+	int i = 0;
+    printf("Infinite loop! %d\n", i);
+
+    infinite_recursion(i += 1);
+
+}
+
+int main(){
+	infinite_recursion();
+}
+
+
+// YEAH
