@@ -1,11 +1,3 @@
-/*Saya M. Adnan Khairi AS.
- mengerjakan evaluasi TP ALPRO 4
- dalam mata kuliah Algoritma dan Pemrograman 1
- untuk keberkahanNya 
- maka saya tidak melakukan kecurangan 
- seperti yang telah dispesifikasikan. 
- Aamiin.*/
-
 // program pengulangan, BIKIN TELUR SAMA ANAK AYAM chikPi1
 #include <stdio.h> //LIBRARY NYA HARUS GINI SOALNYA YA BUAT NEMPELIN SCANF SAMA PRINTF
 
